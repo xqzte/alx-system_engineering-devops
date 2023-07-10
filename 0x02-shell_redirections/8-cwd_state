@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > os_cwd_content
